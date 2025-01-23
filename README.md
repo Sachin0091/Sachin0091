@@ -1,10 +1,15 @@
 # About me 
 
 🌟 Currently Working On: Enhancing skills in penetration testing, threat hunting, and ethical hacking.
+
 🛡️ Cybersecurity Club: Contributing to monitoring the dark web and reporting malicious activities.
+
 🤝 Collaboration Goals: Security research, vulnerability assessments, and developing tools for penetration testing and digital forensics.
+
 🚀 Learning Journey: Critical infrastructure protection, advanced ethical hacking, and threat management via HackTheBox, Cisco, and Opswat.
+
 🔍 Ask Me About: Reporting vulnerabilities, penetration testing tools, and Rato Daku for Android vulnerability testing.
+
 ✍️ Fun Fact: Love writing about CTF challenges and sharing insights on Medium.
 
 
