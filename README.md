@@ -1,17 +1,20 @@
-# About me 
+About me
+🌟 Currently Working On:
+Improving skills in cybersecurity operations, vulnerability assessment, threat analysis, and security tool development.
+🛡️ Cybersecurity Club:
+Contributing to dark web monitoring, identifying data leaks, and reporting malicious activities.
 
-🌟 Currently Working On: Enhancing skills in penetration testing, threat hunting, and ethical hacking.
+🤝 Collaboration Goals:
+Security research, vulnerability assessments, and developing tools for security analysis and digital forensics.
 
-🛡️ Cybersecurity Club: Contributing to monitoring the dark web and reporting malicious activities.
+🚀 Learning Journey:
+Threat detection, ethical hacking, and critical infrastructure protection through hands-on labs and platforms like Hack The Box, Cisco, and OPSWAT.
 
-🤝 Collaboration Goals: Security research, vulnerability assessments, and developing tools for penetration testing and digital forensics.
+🔍 Ask Me About:
+Security tools, vulnerability reporting, penetration testing basics, and projects like Android vulnerability testing and malicious IP analysis.
 
-🚀 Learning Journey: Critical infrastructure protection, advanced ethical hacking, and threat management via HackTheBox, Cisco, and Opswat.
-
-🔍 Ask Me About: Reporting vulnerabilities, penetration testing tools, and Rato Daku for Android vulnerability testing.
-
-✍️ Fun Fact: Love writing about CTF challenges and sharing insights on Medium.
-
+✍️ Fun Fact:
+I enjoy writing about security challenges and sharing technical insights with the community.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachingautam_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachingautam01) 
@@ -27,3 +30,5 @@
 [![](https://visitcount.itsvg.in/api?id=Sachin0091&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
